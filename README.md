@@ -40,7 +40,7 @@ We also conducted a study on affective polarization among the private corporate 
 
 ## Contact
 
-- Emails: gabriel.n.c.t182[@]gmail.com gn.camargo215@uniandes.edu.co
+- Emails: gabriel.n.c.t182@gmail.com  gn.camargo215@uniandes.edu.co
 
 - Linkedin: https://www.linkedin.com/in/gabriel-n-camargo-toledo-02444384/
 
