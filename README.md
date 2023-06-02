@@ -5,7 +5,7 @@ I'm a political scientist and data geek with knowledge in survey research and de
 
 I also love teaching. I have taught different topics, to different ages, from languages to kids as small as 8, to high school social studies and undergraduate and graduate level quantitative methods and political science classes. 
 
-You can download my [resume](assets/resume_Camargo_github.pdf) here or my cv [here](assets/cv_CamargoToledo_github.pdf)
+You can download my resume [here]((assets/resume_Camargo_github.pdf)) or my cv [here](assets/cv_CamargoToledo_github.pdf)
 
 This site is still a work in progress.
 
