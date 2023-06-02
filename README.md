@@ -1,7 +1,6 @@
 
 
-# Gabriel N. Camargo-Toledo {.tabset}
-
+# Gabriel N. Camargo-Toledo
 
 
 ## About me
