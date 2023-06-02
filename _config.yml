@@ -1,0 +1,8 @@
+title: ""
+description: Gabriel N. Camargo-Toledo Personal Page
+output:
+  html_document:
+  # toc: true
+  # toc_float: true
+  theme: darkly
+highlight: default

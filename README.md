@@ -1,13 +1,4 @@
----
-title: ""
-output:
-  html_document:
-    # toc: true
-    # toc_float: true
-    theme: darkly
-    highlight: default
 
----
 
 # Gabriel N. Camargo-Toledo {.tabset}
 
