@@ -1,11 +1,11 @@
 ## About me
- <img src="files/profilePicCrop.png" align="left" width="180" />
+ <img src="assets/profilePicCrop.png" align="left" width="180" />
 
 I'm a political scientist and data geek with knowledge in survey research and design, statistics, econometrics, and statistical software development. I worked as a Researcher for a survey start-up in Colombia and have several years of experience doing social research, particularly surveys, in different settings.  I enjoy building things that make doing research easier. 
 
 I also love teaching. I have taught different topics, to different ages, from languages to kids as small as 8, to high school social studies and undergraduate and graduate level quantitative methods and political science classes. 
 
-You can download my [resume](files/resume_Camargo_github.pdf) here or my cv [here](files/cv_CamargoToledo_github.pdf)
+You can download my [resume](assets/resume_Camargo_github.pdf) here or my cv [here](assets/cv_CamargoToledo_github.pdf)
 
 This site is still a work in progress.
 
