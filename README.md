@@ -2,6 +2,7 @@
 
 # Gabriel N. Camargo-Toledo
 
+"The way to cope with the future is to create it. (Ilya Prigogine)"
 
 ## About me
  <img src="files/profilePicCrop.png" align="left" width="180" />
