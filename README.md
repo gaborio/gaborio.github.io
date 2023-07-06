@@ -11,7 +11,7 @@ This site is still a work in progress.
 
 ## Publicly available software and research
 
-In my role a Senior Researcher for Sensata UX Research I developed a software suite that allowed for the quick and consistent data cleaning and analysis of the survey data collected using Sensata's proprietary platform. It was developed using R statistical language. This included two different packages, [SensataDataProg](https://github.com/SensataUX/sensataDataProg) and [SensataDataAnalysis](https://github.com/SensataUX/sensataDataProg), both available on Github.
+In my role a Senior Researcher for Sensata UX Research I developed a software suite that allowed for the quick and consistent data cleaning and analysis of the survey data collected using Sensata's proprietary platform. It was developed using R statistical language. This included two different packages, [SensataDataProg](https://github.com/SensataUX/sensataDataProg) and [SensataDataAnalysis](https://github.com/SensataUX/sensataDataProg), both available on Github. I'm also creating a personal package, [gaborioRtools](https://github.com/gaborio/gaborioRtools).
 
 We also conducted a study on affective polarization among the private corporate sector and civil society in Latin America. This was funded by Fundación Sura. The goal of the project is to identify what separates and divides these two groups on terms of their affective views of each other and their ideological positions. The project is called [Tejiendo puentes](https://sensata.io/es/tejiendo-puentes). You can listen to a podcast based on this study [here](https://open.spotify.com/show/7vuadQaufWA7gHkRzfRoHz)
 
