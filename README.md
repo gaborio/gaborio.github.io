@@ -27,7 +27,7 @@ We also conducted a study on affective polarization among the private corporate 
 
 ### Other publications
 
-- Araos, Ana María; Bohóquez, Maria FernandaM  Camargo-Toledo, Gabriel N; del Portillo, Marcela & Rodríguez, Juan Sebastian. _"Entre empresarios y líderes sociales. Afectos, ideología y polarización en Colombia México, Argentina y Brasil"_, 2022, Sensata UX Research ([Available here](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9970c852-510e-4d27-bf5d-50e50006df59))
+- Araos, Ana María; Bohóquez, Maria Fernanda;  Camargo-Toledo, Gabriel N; del Portillo, Marcela & Rodríguez, Juan Sebastian. _"Entre empresarios y líderes sociales. Afectos, ideología y polarización en Colombia México, Argentina y Brasil"_, 2022, Sensata UX Research ([Available here](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9970c852-510e-4d27-bf5d-50e50006df59))
 
 - Warner, Zach. & Camargo-Toledo, Gabriel N. _"How Does LAPOP Calculate Response Rates?"_, 2019, Methodological Note 5, LAPOP ([Available here](https://www.vanderbilt.edu/lapop/methods-005rev.pdf))
 
