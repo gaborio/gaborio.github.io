@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Selected publications
 ---
 
 ## Recent Publications
