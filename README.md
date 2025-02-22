@@ -1,7 +1,8 @@
 ## About me
  <img src="assets/profilePicCrop.png" align="left" width="180" />
 
-I'm a political scientist and data geek with knowledge in survey research and design, statistics, econometrics, and statistical software development. I worked as a Researcher for a survey start-up in Colombia and have several years of experience doing social research, particularly surveys, in different settings.  I enjoy building things that make doing research easier. I currently work as a Short Term Consultant for the World Bank Kenya Analytical Program on Forced Displacement (KAP-FD) and as an instructor at Universidad Javeriana.
+
+I'm a political scientist and data geek with knowledge in survey research and design, statistics, econometrics, and statistical software development. I have several years of experience doing social research, particularly surveys, in different settings.  I enjoy building things that make doing research easier. I currently work as a Short Term Consultant for the World Bank Kenya Analytical Program on Forced Displacement (KAP-FD) and as an instructor at Universidad Javeriana.
 
 I also love teaching. I have taught different topics, to different ages, from languages to kids as small as 8, to high school social studies and undergraduate and graduate level quantitative methods and political science classes. 
 
@@ -12,7 +13,7 @@ You can download my cv [here](assets/Gabriel-N-Camargo-Toledo-vita.pdf)
 
 In my role a Senior Researcher for Sensata UX Research I developed a software suite that allowed for the quick and consistent data cleaning and analysis of the survey data collected using Sensata's proprietary platform. It was developed using R statistical language. This included two different packages, [SensataDataProg](https://github.com/SensataUX/sensataDataProg) and [SensataDataAnalysis](https://github.com/SensataUX/sensataDataProg), both available on Github. I'm also creating a personal package, [gaborioRtools](https://github.com/gaborio/gaborioRtools).
 
-We also conducted a study on affective polarization among the private corporate sector and civil society in Latin America. This was funded by Fundación Sura. The goal of the project is to identify what separates and divides these two groups on terms of their affective views of each other and their ideological positions. The project is called [Tejiendo puentes](https://sensata.io/es/tejiendo-puentes). You can listen to a podcast based on this study [here](https://open.spotify.com/show/7vuadQaufWA7gHkRzfRoHz)
+We also conducted a study on affective polarization among the private corporate sector and civil society in Latin America. This was funded by Fundación Sura. The goal of the project is to identify what separates and divides these two groups on terms of their affective views of each other and their ideological positions. The project is called [Tejiendo puentes](https://sensata.io/es/tejiendo-puentes). You can listen to a podcast based on this study [here](https://open.spotify.com/show/7vuadQaufWA7gHkRzfRoHz). You can also check a Shiny App I have been working on based on the data collected from this project [here](https://gaborio.shinyapps.io/polariApp/)
 
 ## Publications
 
@@ -26,7 +27,7 @@ We also conducted a study on affective polarization among the private corporate 
 
 ### Other publications
 
-- Araos, Ana María; Bohóquez, Maria FernandaM  Camargo-Toledo, Gabriel N; del Portillo, Marcela & Rodríguez, Juan Sebastian. _"Entre empresarios y líderes sociales. Afectos, ideología y polarización en Colombia México, Argentina y Brasil"_, 2022, Sensata UX Research ([Available here](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9970c852-510e-4d27-bf5d-50e50006df59))
+- Araos, Ana María; Bohóquez, Maria Fernanda;  Camargo-Toledo, Gabriel N; del Portillo, Marcela & Rodríguez, Juan Sebastian. _"Entre empresarios y líderes sociales. Afectos, ideología y polarización en Colombia México, Argentina y Brasil"_, 2022, Sensata UX Research ([Available here](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:9970c852-510e-4d27-bf5d-50e50006df59))
 
 - Warner, Zach. & Camargo-Toledo, Gabriel N. _"How Does LAPOP Calculate Response Rates?"_, 2019, Methodological Note 5, LAPOP ([Available here](https://www.vanderbilt.edu/lapop/methods-005rev.pdf))
 
