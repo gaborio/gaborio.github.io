@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Selected publications
+title: Publications
 ---
 
-## Recent Publications
+## Selected Publications
 
 <div class="publication-card">
     <h3>Entre empresarios y líderes sociales (2022)</h3>
