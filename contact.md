@@ -16,4 +16,4 @@ I'm always interested in collaborating on research projects, software developmen
 
 ### CV
 
-You can download my complete CV [here](assets/Gabriel-N-Camargo-Toledo-vita.pdf)
+You can download my complete CV [here](assets/resume_shiny_stc.pdf)
