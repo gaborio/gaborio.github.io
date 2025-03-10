@@ -25,6 +25,5 @@ My expertise lies in developing innovative research tools and software solutions
 
 ## Current Work
 
-- **World Bank Consultant**: Working for KAP-FD
-- **Universidad Javeriana**: Teaching introductory quantitative methods
+- **Universidad Javeriana**: Teaching introductory quantitative methods to International Relations students
 
