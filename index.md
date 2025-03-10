@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 
-I'm a political scientist and data specialist with extensive experience in survey research, statistical analysis, and software development. Currently serving as a Short Term Consultant for the World Bank Kenya Analytical Program on Forced Displacement (KAP-FD) and as an instructor at Universidad Javeriana.
+I'm a political scientist and data specialist with extensive experience in survey research, statistical analysis, and software development. Currently working as an instructor at Universidad Javeriana.
 
 My expertise lies in developing innovative research tools and software solutions that streamline data analysis and research processes. I've created multiple R packages and interactive applications that have enhanced research capabilities in social science contexts.
 
