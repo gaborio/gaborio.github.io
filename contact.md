@@ -10,7 +10,7 @@ I'm always interested in collaborating on research projects, software developmen
 ### Contact Information
 
 - **Email**: [gabriel.n.c.t182@gmail.com](mailto:gabriel.n.c.t182@gmail.com)
-- **Academic Email**: [gnicolascamargot01@javeriana.edu.co](mailto:gnicolascamargot01@javeriana.edu.co)
+- **Academic Email**: [gn.camargo215@uniandes.edu.co](mailto:gn.camargo215@uniandes.edu.co)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/gabriel-n-camargo-toledo-02444384/)
 - **Phone**: +57 3175316851
 
