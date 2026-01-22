@@ -11,7 +11,6 @@ Recently, my work has focused heavily on psychometrics, designing and validating
 
 ## Skills & Expertise
 
-::: skills-container
         
 <span class="tag">R Development</span>
 <span class="tag">Statistical Analysis</span>
@@ -24,8 +23,6 @@ Recently, my work has focused heavily on psychometrics, designing and validating
 <span class="tag">Teaching</span>
 <span class="tag">Software Development</span>
 <span class="tag">Shiny Apps</span>
-
-:::
 
 ## Current Work
 
